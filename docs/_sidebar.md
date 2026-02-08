@@ -4,16 +4,16 @@
 - [🎒 Party Ledger](Ledger.md)
 
 - **Chronicles**
-  - [Session 1: An Egg and an Oath](Sessions/Session%201%20Raw%20Notes.md)
-  - [Session 2: The Blighted Grove](Sessions/Session%202%20Raw%20Notes.md)
-  - [Session 3: The Dragon's Ghost](Sessions/Session%203%20Raw%20Notes.md)
-  - [Session 4: The Burning of Hobbletown](Sessions/Session%204%20Raw%20Notes.md)
-  - [Session 5: The Confectioner's Kitchen](Sessions/Session%205%20Raw%20Notes.md)
-  - [Session 6: Blood in the Mountains](Sessions/Session%206%20raw%20notes.md)
-  - [Session 7: Crypt of the Arch-Lich](Sessions/Session%207%20Raw%20Notes.md)
-  - [Session 8: Nine Hoards Remain](Sessions/Session%208%20Raw%20Notes.md)
-  - [Session 9: The Astral Gate](Sessions/Session%209%20Raw%20Notes.md)
-  - [Session 10: The Price of Cowardice](Sessions/Session%2010%20Raw%20Notes.md)
+  - [Session 1: An Egg and an Oath](Chronicles/Session_1_Narrative.md)
+  - [Session 2: The Blighted Grove](Chronicles/Session_2_Narrative.md)
+  - [Session 3: The Dragon's Ghost](Chronicles/Session_3_Narrative.md)
+  - [Session 4: The Burning of Hobbletown](Chronicles/Session_4_Narrative.md)
+  - [Session 5: The Confectioner's Kitchen](Chronicles/Session_5_Narrative.md)
+  - [Session 6: Blood in the Mountains](Chronicles/Session_6_Narrative.md)
+  - [Session 7: Crypt of the Arch-Lich](Chronicles/Session_7_Narrative.md)
+  - [Session 8: Nine Hoards Remain](Chronicles/Session_8_Narrative.md)
+  - [Session 9: The Astral Gate](Chronicles/Session_9_Narrative.md)
+  - [Session 10: The Price of Cowardice](Chronicles/Session_10_Narrative.md)
   - [Session 11: Upcoming](Sessions/Session%2011%20Raw%20Notes.md)
 
 - **External Tools**

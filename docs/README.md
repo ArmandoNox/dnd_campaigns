@@ -6,16 +6,16 @@ Welcome to the official chronicle of the **Dragon Delves** campaign. This docume
 
 | Session                                              | Title                                | Key Milestone                   |
 | :--------------------------------------------------- | :----------------------------------- | :------------------------------ |
-| [Session 1](Sessions/Session%201%20Raw%20Notes.md)   | An Egg, an Oath, and a Blighted Wood | Obtained **Eggsmirelda**        |
-| [Session 2](Sessions/Session%202%20Raw%20Notes.md)   | The Blighted Grove                   | First major combat & discovery  |
-| [Session 3](Sessions/Session%203%20Raw%20Notes.md)   | The Dragon's Ghost                   | Lore of the dragon ancestry     |
-| [Session 4](Sessions/Session%204%20Raw%20Notes.md)   | The Burning of Hobbletown            | Encounter at the Candy House    |
-| [Session 5](Sessions/Session%205%20Raw%20Notes.md)   | The Confectioner's Kitchen           | Escape from Hobbletown          |
-| [Session 6](Sessions/Session%206%20raw%20notes.md)   | Blood in the Mountains               | Arrival at the Abandoned Church |
-| [Session 7](Sessions/Session%207%20Raw%20Notes.md)   | The Crypt of the Arch-Lich           | Rescuing **Nezzerem**           |
-| [Session 8](Sessions/Session%208%20Raw%20Notes.md)   | Nine Hoards Remain                   | Arrival in **Calimshan**        |
-| [Session 9](Sessions/Session%209%20Raw%20Notes.md)   | The Astral Gate                      | Confronting **Ylaglan**         |
-| [Session 10](Sessions/Session%2010%20Raw%20Notes.md) | The Shadowfell Expedition            | Recovered Cleo's remains        |
+| [Session 1](Chronicles/Session_1_Narrative.md)       | An Egg, an Oath, and a Blighted Wood | Obtained **Eggsmirelda**        |
+| [Session 2](Chronicles/Session_2_Narrative.md)       | The Blighted Grove                   | First major combat & discovery  |
+| [Session 3](Chronicles/Session_3_Narrative.md)       | The Dragon's Ghost                   | Lore of the dragon ancestry     |
+| [Session 4](Chronicles/Session_4_Narrative.md)       | The Burning of Hobbletown            | Encounter at the Candy House    |
+| [Session 5](Chronicles/Session_5_Narrative.md)       | The Confectioner's Kitchen           | Escape from Hobbletown          |
+| [Session 6](Chronicles/Session_6_Narrative.md)       | Blood in the Mountains               | Arrival at the Abandoned Church |
+| [Session 7](Chronicles/Session_7_Narrative.md)       | The Crypt of the Arch-Lich           | Rescuing **Nezzerem**           |
+| [Session 8](Chronicles/Session_8_Narrative.md)       | Nine Hoards Remain                   | Arrival in **Calimshan**        |
+| [Session 9](Chronicles/Session_9_Narrative.md)       | The Astral Gate                      | Confronting **Ylaglan**         |
+| [Session 10](Chronicles/Session_10_Narrative.md)     | The Price of Cowardice               | Recovered Cleo's remains        |
 | [Session 11](Sessions/Session%2011%20Raw%20Notes.md) | Unknown Title                        | _Upcoming / In Progress_        |
 
 ---
@@ -38,4 +38,3 @@ Welcome to the official chronicle of the **Dragon Delves** campaign. This docume
 
 - [Campaign Census (NPCs & Locations)](Census.md)
 - [Party Ledger (Items & Gold)](Ledger.md)
-
