@@ -13,6 +13,9 @@
 - 🟢 **Arlen Wymond**: **Caelen**’s father, under guard at **The Nest** for his betrayal in the **Shadowfell**.
 - 💀 **Cleo Sparkscale**: **Tra’Ahn**’s aunt and a fallen hero (deceased).
 - 🟢 **Uno, Dos, Tres, Cuatro**: The **Modron** caretakers/staff of **The Nest**.
+- 🟢 **Mirel Astafar**: A noble merchant and contact for the ship.
+- 🟢 **Captain Orso**: Tiefling captain of the *Wavemont*.
+- 🟢 **Skalathas**: Young monk at the **Nashkir Monastery**.
 
 ### Guardians & Entities
 
@@ -28,6 +31,9 @@
 - 🟢 **Uncle Nibblecheek**: A halfling confectioner in **Hobbletown** who turned out to be less than friendly.
 - 🟢 **Ny’athor**: A terrifying shadow-beast residing in the **Shadowfell**.
 - 🟢 **Stone Golem**: The silent sentinel of the **Shadowfell** burial mound.
+- 🔴 **Ronnom Dammos**: Fugitive noble and assassin, hiding in the **Nashkir Monastery**.
+- 🔴 **Veen**: Ronnom's ogre bodyguard (disguised).
+- 🐉 **Skalantir**: The **Bronze Dragon** guarding the island.
 
 ---
 

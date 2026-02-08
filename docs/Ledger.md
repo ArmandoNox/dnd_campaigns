@@ -23,6 +23,7 @@ This document tracks the cumulative inventory, wealth, and status of the "Dragon
 - **Magical Whip / Staff of Adornment**: Miscellaneous magical utility items.
 - **Clockwork Amulet**: Found in the Starglass Waypoint.
 - **Potions of Comprehension**: 4 vials matching the waypoint's pristine water.
+- **Xamtarm's Spellbook**: Found in the **Nashkir Monastery** library.
 
 ### Logistics & Access
 

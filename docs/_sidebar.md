@@ -14,7 +14,7 @@
   - [Session 8: Nine Hoards Remain](Chronicles/Session_8_Narrative.md)
   - [Session 9: The Astral Gate](Chronicles/Session_9_Narrative.md)
   - [Session 10: The Price of Cowardice](Chronicles/Session_10_Narrative.md)
-  - [Session 11: Upcoming](Sessions/Session%2011%20Raw%20Notes.md)
+  - [Session 11: The Dragon of Nashkir](Chronicles/Session_11_Narrative.md)
 
 - **External Tools**
   - [D&D Beyond: Saffi](https://www.dndbeyond.com/characters/149615029)

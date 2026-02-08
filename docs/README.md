@@ -16,7 +16,7 @@ Welcome to the official chronicle of the **Dragon Delves** campaign. This docume
 | [Session 8](Chronicles/Session_8_Narrative.md)       | Nine Hoards Remain                   | Arrival in **Calimshan**        |
 | [Session 9](Chronicles/Session_9_Narrative.md)       | The Astral Gate                      | Confronting **Ylaglan**         |
 | [Session 10](Chronicles/Session_10_Narrative.md)     | The Price of Cowardice               | Recovered Cleo's remains        |
-| [Session 11](Sessions/Session%2011%20Raw%20Notes.md) | Unknown Title                        | _Upcoming / In Progress_        |
+| [Session 11](Chronicles/Session_11_Narrative.md) | The Dragon of Nashkir                | Arrival at Nashkir Monastery    |
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to the official chronicle of the **Dragon Delves** campaign. This docume
 **The Infusion of Eggsmirelda**
 
 - **Essences Collected**: 3 / 10
-- **Next Hoard Location**: Unknown (Vision of ship at sea/Green lightning)
+- **Next Hoard Location**: Nashkir Monastery (Sea of Swords)
 
 ## 🔗 Quick Links
 

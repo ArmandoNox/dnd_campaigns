@@ -6,7 +6,7 @@ Welcome to the Command Center for the **Dragon Delves** campaign.
 
 ## 🎯 Active Quest: The Infusion
 
-> **Current Goal**: Investigate the vision of the ship at sea struck by green lightning and the monks in the sea cave.
+> **Current Goal**: Confront **Ronnom Dammos** and appease the dragon **Skalantir** at the **Nashkir Monastery**.
 
 | Progress   | Status              | Milestone                   |
 | :--------- | :------------------ | :-------------------------- |
