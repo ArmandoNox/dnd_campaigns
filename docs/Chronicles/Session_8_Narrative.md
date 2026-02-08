@@ -9,8 +9,8 @@
 ## Key Items & Quests
 
 - **Starglass Sigil Keycards**: Access to the waypoint.
-- **Potions of Comprehension**: Alien tech for alien words.
 - **The Vision**: A dark dragon destroying a clockwork city.
+- **Loot**: A 750g statue (gifted), Clockwork Amulet.
 
 ## Locations & Factions
 
@@ -29,44 +29,38 @@
 
 Home. It is a strange word for adventurers.
 
-They christened the tower **"The Nest."** It stood defiantly on the coast of **Cloakwood**, a spire of stone now guarded by the heroes who had claimed it. For a few days, there was peace. **Tra’Ahn** trained. **Saffi** tended the grounds. **Caelen** prayed.
+They christened the tower **"The Nest."** Before settling in, they returned to **Greysmere** to celebrate. In a fit of generosity that shocked the table, **Tra’Ahn** slammed a massive, 750-gold-piece statue onto the bar. "For the decor," he rumbled to a stunned **Orion Solaris**.
 
-Then the past knocked on the door.
+Back at the tower, the past knocked on the door. **Thalamil**, a high elf of arrogant bearing, arrived seeking **Alamira**. He brought news from her father—a test of her worthiness. Expectations of Candlekeep cast long shadows.
 
-**Thalamil**, a high elf of arrogant bearing, arrived seeking **Alamira**. He brought news from her father—a test of her worthiness. It was a stark reminder that even thousands of miles away, the expectations of Candlekeep and kin cast long shadows.
+But the future would not wait. On the fourth night, the **Egg** screamed.
 
-But the future would not wait for the past to settle. On the fourth night, the **Egg** screamed.
+A vision: _A metallic canyon. A city of glass and gears. A dragon tearing it apart._ It ended with the flash of their own basement teleportation circle.
 
-It wasn't a sound, but a vision shared by all. A metallic canyon. A city of glass and gears. And a dragon, dark and terrible, tearing it apart. The vision ended with a flash—the sigil of their own basement teleportation circle.
-
-"We go," Tra’Ahn said, buckling his armor.
+"We go," Tra’Ahn said.
 
 They stepped into the circle and vanished.
 
 ---
 
-Heat struck them like a physical blow. They stood in the ruins of a tower, but the sky was the burning azure of **Calimshan**. Before them stretched a canyon, spanned by a miracle of architecture: the **Starglass Waypoint**. It was metal and crystal, suspended over the void like a bridge to the stars.
+Heat struck them like a physical blow. They stood in the ruins of a tower under the burning azure sky of **Calimshan**. Spanning the canyon before them was the **Starglass Waypoint**—a bridge to the stars made of metal and crystal.
 
-"This is not of this world," Alamira whispered, touching a wall that hummed with vibration.
+"Help!" A voice echoed in their minds. "I am trapped!" It was **Keliphond**, a disembodied guide.
 
-"Help!" A voice echoed in their minds. "I am trapped! The dragon comes!"
+At a pristine fountain, the water rose up. A **Water Elemental** slammed into **Saffi**, forcing the air from her lungs. The fight was desperate, fought on slick tiles. **Alamira** froze the beast with _Ray of Frost_, shattering it into harmless ice cubes.
 
-It was **Keliphond**—a voice without a body, guiding them forward. But the Waypoint was not empty.
+Deeper they went, into halls of alien geometry. There, they found crates stacked in the shadows.
 
-At a pristine fountain, the water rose up, forming a crushing wave of malice. A **Water Elemental** slammed into **Saffi**, forcing the air from her lungs. The fight was desperate, fought on slick tiles under a blinding sun. **Alamira** slowed the beast with frost, freezing its fluid form until Saffi could shatter it with a well-placed arrow.
+"Careful," **Caelen** warned.
 
-Deeper they went, into halls of alien geometry. There, they found the victims of the dragon's rage: **Modrons**.
+Too late. One of the crates sprouted teeth. A **Mimic**!
 
-They looked like geometric toys—cubes and spheres with spindly limbs. They huddled in the shadows, terrified. When **Tra’Ahn** approached, they shrieked in binary panic.
+As they fought the abomination, **Modrons**—geometric beings of law—scuttled out from hiding. Mistaking the party for thieves, they attacked with mathematical precision. **Tra’Ahn** defended himself, but his heart broke as the creatures disintegrated into dust upon defeat.
 
-"Meat-things! Destroyers!"
+"They are just scared," he mourned.
 
-The skirmish was tragic. The Modrons, driven mad by fear, attacked with mathematical precision. Tra’Ahn defended himself, but his heart broke as the creatures disintegrated into dust upon defeat.
+Using magic to bridge the language gap, they parleyed with the survivors. They learned of **Ylaglan**, a Brass Dragon driven to paranoid frenzy.
 
-"They are just scared," he mourned, lowering his blade.
+"He is in the Astral Gate," a spherical Modron beeped, handing them a glass keycard. "Please. Reset the unit."
 
-Using magic to bridge the language gap, they parleyed with the survivors. They learned of **Ylaglan**, a Brass Dragon who had once been a protector, now driven to a paranoid frenzy. He was tearing the station apart, looking for a thief that didn't exist.
-
-"He is in the Astral Gate," a spherical Modron beeped, handing them a glass keycard. "Please. Reset the unit. Restore the logic."
-
-They looked up at the upper levels of the Waypoint, gleaming in the desert sun. Somewhere up there, a dragon was losing its mind, and they were the only ones who could bring it back from the brink.
+They looked up at the upper levels. Somewhere up there, a dragon was losing its mind.

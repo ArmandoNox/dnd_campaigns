@@ -29,7 +29,9 @@
 
 The air in the **Troll Mountains** was thin, sharp, and tasted of old iron.
 
-The ascent had been brutal, but it was the silence that cut deepest. **Echo**, **Saffi**’s constant companion, lay bleeding on the scree, his flank torn open by something dead and hungry. As **Caelen** knelt to weave his healing magic, the wolf’s eyes opened. They were not the eyes of a beast, but of something... more.
+The ascent had been brutal, but it was the silence that cut deepest. **Echo**, **Saffi**’s constant companion, lay bleeding on the scree, his flank torn open by something dead and hungry. As **Saffi** tended to him, she found something that made her blood run cold: decayed fingernails embedded in the wound.
+
+As **Caelen** knelt to weave his healing magic, the wolf’s eyes opened. They were not the eyes of a beast, but of something... more.
 
 "Saffi?" the wolf rasped, the word clumsy in a throat built for howling. "Cold?"
 
@@ -37,24 +39,18 @@ Saffi froze, her hand hovering over his fur. "He spoke," she whispered, looking 
 
 "It changes everything," Tra’Ahn grumbled, eyeing the fog. "We move. Now."
 
-They reached the **Abandoned Church** as twilight bled into night. It was a carcass of stone, its ribs broken, its heart stopped long ago. Green witch-light flickered in the windows, casting long, skeletal shadows across the snow.
+They reached the **Abandoned Church** as twilight bled into night. It was a carcass of stone, green witch-light flickering in the windows. **Alamira** sent **Whisper**, her owl familiar, into the gloom. She saw them: figures in robes tearing down icons of **Lathander** and replacing them with bone mosaics of **Orcus**.
 
-**Alamira** sent **Whisper**, her owl familiar, into the gloom. Through the bird’s eyes, she saw them: figures in robes, moving with jerky, frantic purpose. They were tearing down the icons of the gods, replacing them with mosaics of bone and blood.
+"Demon Lord of the Undead," **Caelen** spat.
 
-"Orcus," **Caelen** spat the name like a curse. "Demon Lord of the Undead."
+They breached the doors. "Pull it down!" a robed dragonborn roared. "Make way for the Prince!"
 
-They breached the doors in silence, but chaos waits for no man.
+**Tra’Ahn** answered with steel, crashing into the zombie line. **Saffi** and **Echo**—moving with terrifying synchronization—flanked the leader. The wolf’s jaws snapped the cultist’s staff, and Saffi’s blade finished the work.
 
-"Pull it down!" a robed dragonborn roared, pointing a bony finger at a statue of Lathander. "Make way for the Prince!"
+But the church held more secrets. In a hidden alcove disguised by a **statue of a Vampire**, a skeleton wreathed in green fire exploded in a necrotic cataclysm. It nearly took Tra’Ahn’s head off, but **Saffi**’s covering fire kept the archers at bay while **Caelen** invoked the **Radiance of the Dawn**, turning the horde to ash. They recovered a **Wand of Magic Missiles** from the debris—a small prize for near death.
 
-**Tra’Ahn** answered with steel. He crashed into the line of zombies like a landslide, his greatsword cleaving through rot and bone. **Saffi** and **Echo**—moving with a new, terrifying synchronization—flanked the leader. The wolf’s jaws snapped the cultist’s staff, and Saffi’s blade finished the work.
+Deeper in the jail block, greed almost killed them. **Alamira** pulled a loose brick to reveal a **Wand of Secrets**, but unleashed a **Wraith**. The spirit drained Tra’Ahn’s strength until his scales turned gray.
 
-But the dead do not rest easily in such places. As they pushed deeper, the very walls seemed to bleed enemies. In a hidden alcove, a skeleton wreathed in green fire exploded in a cataclysm of necrotic force, nearly taking Tra’Ahn with it. It was **Saffi** who saved him, her arrows pinning the archers to the walls while Caelen invoked the **Radiance of the Dawn**, turning the horde to ash.
+"You have no power here!" Alamira screamed, hurling a sphere of chromatic ice through the ghost. It shrieked—a sound of tearing metal—and dissipated.
 
-They found a moment of respite in the jail block, but greed is a dangerous companion. **Alamira**, sensing magic, pulled a loose brick from a cell wall. A **Wand of Secrets** tumbled out—but so did a shadow.
-
-A **Wraith** rose from the floor, a creature of void and malice. It passed through Tra’Ahn, and the mighty fighter fell to his knees, his strength drained, his scales turning gray.
-
-"You have no power here!" Alamira screamed, clutching her orb. She channeled the biting cold of the mountain into a sphere of chromatic ice, hurling it through the ghost. It shrieked—a sound of tearing metal—and dissipated into the ether.
-
-Silence returned to the church. But it was heavy, pregnant with the promise of more horrors below. They had taken the entrance, but the true darkness lay in the crypts beneath their feet.
+Silence returned. But it was heavy. They had taken the entrance, but the true darkness lay in the crypts beneath their feet.
