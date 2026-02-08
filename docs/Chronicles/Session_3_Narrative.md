@@ -2,21 +2,25 @@
 
 ## Dramatis Personae
 
-- **Ghost of Death at Sunset**: The spectral remnant of the green dragon.
-- **The Eldemir Family**: Ancient elven spirit-guardians.
+- **Armin**: The ranger whose eyes were melted by acid.
+- **Daetrius**: The elvish solicitor who revealed the party’s inheritance.
+- **Lemir**: The merchant whose magical candle was stolen.
 
 ## Key Items & Quests
 
-- **Leafwarden**: Recovered from the dragon's hoard!
-- **Dragon's Hoard**: A significant influx of gold and jewels.
+- **Leafwarden**: Recovered! "Slayer of dragons, protector of elves."
+- **The Island Estate**: A 5,000-acre teleporting island now owned by the party.
+- **Loot**: Jade Orb (Stygia), Dust of Disappearance, Keoghtom’s Ointment.
 
 ## Locations & Factions
 
-- **The Dragon's Lair**: A toxic cave system hidden behind a waterfall.
+- **Lair of Death at Sunset**: Cleared.
+- **Waterdeep**: Visited briefly to buy supplies and catch a thief.
+- **Hobbletown**: The destination of their urgent vision.
 
 ## Current Objective
 
-- Survive the confrontation with the dragon's ghost and rescue **Armin** (completed).
+- Rush to Hobbletown to prevent the vision of fire from coming true.
 
 ---
 
@@ -24,34 +28,56 @@
 
 # Chapter Three: The Dragon's Ghost
 
-Victory is a fleeting comfort. No sooner had they returned Armin to the safety of Red Wood Watch than the call of the past lured them back into the dark.
+The gathered mist spoke with a voice like grinding stones. **"Bow down before your new master."**
 
-**Alamira** could feel the pull of it—the arcane resonance of **Leafwarden**. Legends said the blade lay in the lair of the green dragon **Death at Sunset**, a creature slain centuries ago. But legends often leave out the parts that bleed.
+**Armin**, the ranger they had come to save, lay on the floor, his eyes burned away by acid. **Tra’Ahn** stepped forward, his small stature betrayed by his immense courage, attempting to parley. But the ghost of **Death at Sunset**—a spectral green dragon born of smoke and malice—knew no negotiation, only pride.
 
-The lair was hidden behind a cascading waterfall, the spray masking the stench of sulfur and decay. As the party stepped into the cavern, the air grew cold—unnaturally so.
+"Flesh for the rot," it hissed, unleashing a breath of poisonous fog.
 
-"Do not disturb the slumber of the great," **Caelen** whispered, his holy symbol glowing faintly.
+**Caelen** and Tra’Ahn took the brunt of it, their skin blistering, but the antidotes they had consumed earlier held the worst of the toxin at bay. **Saffi** was a blur of motion, diving behind rock formations and loosing arrows that flew true despite the obscuring mist. **Alamira** wove a tether of lightning—a _Witch Bolt_—that connected her to the beast, a crackling leash of arcane power.
 
-Too late.
+The combat was a chaotic dance. Tra’Ahn blocked claws with his shield, Caelen called down the searing light of _Sacred Flame_, and Saffi, cornered by the dragon's minions—a swarm of acidic centipedes—unleashed a Z-shaped slash with her scimitars that left them in ruin.
 
-Mist coalesced in the center of the hoard chamber, twisting and forming into a serpentine shape. Green spectral fire ignited in empty eye sockets. The ghost of Death at Sunset had not left its hoard unguarded.
+In the end, it was the light that killed the shadow. Caelen’s _Sacred Flame_ melted the spectral flesh, and the ghost dissolved with a final, furious shriek.
 
-**"THIEVES,"** the spirit hissed, the sound echoing in their minds rather than their ears. **"FLESH FOR THE ROT."**
+---
 
-The battle was one of mind as much as muscle. The dragon's breath was not toxic gas, but vivid hallucinations of terror. **Tra’Ahn** saw his clan burning; **Saffi** saw the forest turned to ash. But it was Alamira, standing before the prize she had sought for so long, who broke the spell.
+Silence returned to the cave. And there, thrust into a pile of gold, was the sword.
 
-"You are dead!" she cried, arcane power surging through her staff. "Be silent!"
+**Tra’Ahn** pulled it free. The inscription in Elvish hummed with ancient power: _"Leafwarden, slayer of dragons, protector of elves."_
 
-She unleashed a torrent of force that disrupted the ghost's form, giving Tra’Ahn the opening he needed. With a roar that rivaled the dragon's own, he plunged his blade into the spectral heart. The ghost shrieked, a sound of tearing metal, and vanished into the ether.
+They looted the hoard—moonstones, a jade orb etched with the word "Stygia," and potions of strength—but the true prize was the **Brass Dragon Egg**. As Tra’Ahn held it, he felt a sudden, overwhelming warmth. A vision flooded them: _flight, fear, and a voice roaring "You Must!"_
 
-Silence returned to the cave. And there, resting atop a mound of gold coins, was the sword.
+They left the cave, carrying Armin and the body of the wyrmling "Sunset Is Nigh" (Tra'Ahn had ideas for armor styling), and returned to **Redwood Watch**.
 
-**Leafwarden**. Its blade was etched with leaf patterns that seemed to shift in the light. It hummed when Alamira touched it, a song of protection and sharp edges.
+---
 
-But as they gathered the loot—gold, gems, and ancient trinkets—**Echo**, Saffi's strange companion, chittered a warning. They looked to the cave entrance. High in the distance, smoke was rising. Thick, black smoke.
+The victory was short-lived. A new player entered the board.
 
-It was coming from the direction of **Hobbletown**.
+**Daetrius**, an elven solicitor with eyes like flint, approached them in town. She unrolled a scroll that rewrote their destiny. **Eldemir’s Estate**—a wizard’s tower on a wandering island—now belonged to them.
 
-"No rest for the wicked," Saffi muttered, checking her quiver. "Or the righteous, it seems."
+One teleportation later, they stood on their new home: 5,000 acres of forest, beach, and a ruined tower, floating somewhere in the trackless ocean.
 
-They left the cave rich in gold but heavy in spirit. The fire on the horizon burned bright against the setting sun.
+"It moves?" Alamira asked, disappointed she couldn't find a giant turtle underneath it.
+
+"It moves," Tra'Ahn confirmed, after an underwater expedition with **Echo** (who had sprouted gills and was swimming like a seal). "The rocks underneath don't belong to the sea floor."
+
+That night, as Tra’Ahn woke Alamira for her watch, a vision struck them both. _Fire. Screams. The smell of burning sugar._
+
+**Hobbletown** was burning.
+
+---
+
+They rowed. They didn't have the magic to teleport back, so they took their small boat and rowed until their arms burned, following the coast to **Waterdeep**.
+
+The great city was a blur of commerce. They rented a dock (haggling the price down, naturally), bought horses, and ran afoul of a desperate halfling trying to sell a "Mummy Rot" candle for 500 gold.
+
+"My mother was a mummy!" the thief cried.
+
+"Mummy rot isn't real," Caelen sighed, taking the candle. It was magical, but stolen. After a brief chase involving _Phantasmal Force_ and a tackle by Tra’Ahn, they returned the item to its owner, **Lemir**, and collected a bounty.
+
+But there was no time to celebrate. The vision pressed on their minds. They rode south, pushing their mounts to the breaking point.
+
+As they crested the final hill, they saw it. Not a memory. Not a dream.
+
+**Hobbletown** was on fire. And the smoke smelled like... caramel?

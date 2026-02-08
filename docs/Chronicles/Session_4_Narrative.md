@@ -2,20 +2,25 @@
 
 ## Dramatis Personae
 
-- **Uncle Nibblecheek**: The seemingly kindly confectioner.
-- **The Gingerbread Golems**: Culinary constructs of destruction.
+- **Enid Appleguard**: Rescued shopkeeper.
+- **"Uncle" Nibblecheek**: The fey confectioner.
+- **Bubblewoga**: A wooden baby cyclops guard.
+- **The Baking Bears**: Three bears, one taffy machine.
 
 ## Key Items & Quests
 
-- **The Candy House**: A trap masquerading as a sanctuary.
+- **Bag of Tricks**: Found in the nursery; produced a badger, weasel, and panther.
+- **Broom of Flying**: Found in the library.
+- **Candy Transformation**: Tra'Ahn is now "sweet and flexible."
 
 ## Locations & Factions
 
-- **Hobbletown**: A halfling village, now in flames.
+- **The Candy House**: A deadly gingerbread trap.
+- **Hobbletown**: Saved from the fire, but scarred.
 
 ## Current Objective
 
-- Investigate the smoke and save the survivors of Hobbletown.
+- Enter the oven portal and chase Nibblecheek.
 
 ---
 
@@ -23,38 +28,54 @@
 
 # Chapter Four: The Burning of Hobbletown
 
-Smoke tasted of burnt sugar and charred flesh.
+The fire didn’t smell like woodsmoke. It smelled like burning sugar.
 
-The party arrived at **Hobbletown** to find a nightmare. The quaint halfling village was ablaze. But this was no ordinary fire. The flames licked at buildings made of... candy?
+They rode into **Hobbletown** to find chaos. **Enid’s Sweet Shop** was an inferno. **Alamira** didn't hesitate, parting the flames with a wave of her hand to clear a path. **Tra’Ahn** kicked the door in, emerging moments later carrying an elderly halfling woman—**Enid**—while **Caelen** dived in for the truly important things: the cash register and a family photo.
 
-"Illusion magic," **Alamira** surmised, waving a hand through a wall that looked like gingerbread but felt like hot stone. "Or transmutation gone horribly wrong."
+**Saffi** organized a bucket brigade with **Echo** and the locals, dousing the structure before it could collapse. But the mystery remained: Enid didn’t use open flames.
 
-They found the survivors huddled in the town square, surrounded by monstrous shapes. Constructs. Not of metal or stone, but of dough and icing, baked to hardness of iron. **Gingerbread Golems** lumbered through the streets, smashing homes with Gumdrop hammers.
+"A half-eaten Cinnabon," Saffi noted, holding up a charred pastry found at the flashpoint. "Enid doesn't sell these."
 
-"This is ridiculous," **Tra’Ahn** growled, shattering a cookie-man soldier with his pommel. "And terrifying."
+A drunk woman rambled about "fire-breathing cows," which turned out to be less crazy than it sounded when the party found scorched grass leading into the woods. The trail ended at a structure that defied logic: a cottage made of gingerbread, icing, and malice.
 
-At the center of the chaos stood a building untouched by the flames: **Uncle Nibblecheek’s Confectionary**. The sign swung creakily in the hot wind.
+**The Candy House.**
 
-"He's in there," a sobbing villager pointed. "He invited us for a feast... and then the ovens... the ovens didn't stop."
+---
 
-**Saffi** moved to the window, peering through the frosted glass. Inside, it was a slaughterhouse of sweets. But in the back, she saw him—Uncle Nibblecheek, a portly halfling with a manic gleam in his eye, stirring a cauldron that smelled of chocolate and blood.
+The welcome mat read _"Please, wipe your feet."_
 
-"We go in," **Caelen** said, hefting his mace. "Hard and fast."
+**Alamira** sensed the conjuration magic too late. As **Saffi** tried to jump over it, the **Rug of Smothering** lashed out, wrapping the gnome in a suffocating embrace. Tra’Ahn didn't panic; he simply grabbed the animated textile, balled it up like dirty laundry, and threw it into the yard.
 
-They breached the door. The smell was overpowering—sickly sweet, cloying, suffocating. Nibblecheek turned, a wide, impossible grin splitting his face.
+Inside was a funhouse of horrors. In the nursery, they found a cradle labeled **"Bubblewoga"** and a gray bag that felt like static. Alamira reached in, pulling out three balls of lint that popped into existence as a badger, a weasel, and a panther. "I shall call you... Fluff," she decided, petting the panther.
 
-"Visitors!" he squealed. "Just in time for the glaze!"
+But the house had teeth. In the hallway, a pressure plate swung a comically large rolling pin down from the ceiling. **SPLAT.**
 
-The kitchen erupted into violence. Additional golems pulled themselves from the walls, doughy limbs grasping. **Leafwarden** sang in Alamira's hands, slicing through sugar-glass armor with ease. Tra’Ahn was a whirlwind of steel, holding the line against the horde.
+Caelen and Alamira were flattened into 2D cookie-cutout versions of themselves. They could still move, still fight, but they were... flat.
 
-But Nibblecheek was no mere baker. He snapped his fingers, and the floor beneath them turned to sticky molasses.
+They pushed into the kitchen, where they found **The Baking Bears**—three massive beasts wearing aprons.
 
-"Sticky, sticky!" the confectioner laughed, retreating towards a massive oven door. "Stay for dessert!"
+"Does Uncle know you're here?" one growled.
 
-"I hate sweets," Saffi spat, loosing an arrow that pinned Nibblecheek's chef hat to the wall.
+The fight was sticky. Tra’Ahn was shoved into a taffy-pulling machine, his scales stretching and coating in pink goo. He emerged changed—his flesh now possessing a rubbery, candy-like quality. Meanwhile, Alamira’s new panther mauled one bear, and Saffi’s arrows turned the others into pincushions.
 
-He shrieked, tearing it free and diving into the oven—which was not an oven, but a portal. Swirling flames of purple and black.
+---
 
-"He's escaping!" Tra’Ahn roared.
+Deeper they went. Past the courtyard of **Candy Dryads** (who only cared about their apples), and the **Chocolate Barn** filled with "Choco-trices."
 
-Without a second thought, the party charged. Into the oven. Into the fire. into the unknown.
+"Chocolate-covered cockatrices," Caelen groaned, melting one with a radiant blast. "I'm never eating dessert again."
+
+In the library, they found the truth: a book telling the story of Enid and her brother **Asgerd**, who traded his freedom to "Uncle" for unlimited candy.
+
+Finally, they reached the inner sanctum. A massive wooden baby cyclops named **Bubblewoga** blocked the way.
+
+"No entry," the wooden doll droned.
+
+"Have a candy apple?" Tra’Ahn offered, holding out the treat they’d found earlier.
+
+Bubblewoga snatched it. "Entry allowed."
+
+They kicked open the final door. **"Uncle" Nibblecheek** stood by a cauldron, stirring a brew of chocolate and blood. Next to him, eyes dull and subservient, was a **Golden Dragon Wyrmling**.
+
+"Just in time for the glaze!" Uncle shrieked, grinning a mouth full of rotten teeth.
+
+The session ended as weapons were drawn and the smell of burning sugar grew overwhelming.
