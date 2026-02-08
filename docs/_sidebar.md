@@ -17,7 +17,7 @@
   - [Session 11: Upcoming](Sessions/Session%2011%20Raw%20Notes.md)
 
 - **External Tools**
-  - [D&D Beyond: Saffi](https://www.dndbeyond.com/characters/saffi)
-  - [D&D Beyond: Alamira](https://www.dndbeyond.com/characters/alamira)
-  - [D&D Beyond: Tra'Ahn](https://www.dndbeyond.com/characters/tra'ahn)
-  - [D&D Beyond: Caelen](https://www.dndbeyond.com/characters/caelen)
+  - [D&D Beyond: Saffi](https://www.dndbeyond.com/characters/149615029)
+  - [D&D Beyond: Alamira](https://www.dndbeyond.com/characters/150291260)
+  - [D&D Beyond: Tra'Ahn](https://www.dndbeyond.com/characters/150299176)
+  - [D&D Beyond: Caelen](https://www.dndbeyond.com/characters/150298338)

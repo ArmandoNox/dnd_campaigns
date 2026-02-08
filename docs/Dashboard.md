@@ -16,12 +16,12 @@ Welcome to the Command Center for the **Dragon Delves** campaign.
 
 ## 👥 The Fellowship
 
-| Hero        | Role               | Status   | D&D Beyond                                                 |
-| :---------- | :----------------- | :------- | :--------------------------------------------------------- |
-| **Saffi**   | Scout / Ranger     | Healthy  | [View Sheet](https://www.dndbeyond.com/characters/saffi)   |
-| **Alamira** | Arcanist / Wizard  | Rested   | [View Sheet](https://www.dndbeyond.com/characters/alamira) |
-| **Tra'Ahn** | Vanguard / Fighter | Alert    | [View Sheet](https://www.dndbeyond.com/characters/tra'ahn) |
-| **Caelen**  | Healer / Cleric    | Battered | [View Sheet](https://www.dndbeyond.com/characters/caelen)  |
+| Hero        | Role               | Status   | D&D Beyond                                                   |
+| :---------- | :----------------- | :------- | :----------------------------------------------------------- |
+| **Saffi**   | Scout / Ranger     | Healthy  | [View Sheet](https://www.dndbeyond.com/characters/149615029) |
+| **Alamira** | Arcanist / Wizard  | Rested   | [View Sheet](https://www.dndbeyond.com/characters/150291260) |
+| **Tra'Ahn** | Vanguard / Fighter | Alert    | [View Sheet](https://www.dndbeyond.com/characters/150299176) |
+| **Caelen**  | Healer / Cleric    | Battered | [View Sheet](https://www.dndbeyond.com/characters/150298338) |
 
 ---
 
@@ -43,4 +43,3 @@ Welcome to the Command Center for the **Dragon Delves** campaign.
 - 🗡️ **Leafwarden**: Ready for action.
 - 👁️ **Staff of Invisibility**: Newly acquired from Shadowfell.
 - 💎 **Giant Opal**: Value 1,000g.
-
